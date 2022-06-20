@@ -132,7 +132,7 @@ try:
     time.sleep(3)
     wdriver.find_element_by_name('Name').send_keys('Adhikesav.M')
     time.sleep(3)
-    wdriver.find_element_by_name('Email').send_keys('akesav1611@gmail.com')
+    wdriver.find_element_by_name('Email').send_keys('kesavmurali1611@gmail.com')
     time.sleep(3)
     select = Select(wdriver.find_element_by_class_name('form-control'))
     time.sleep(3)
